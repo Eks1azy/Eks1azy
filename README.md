@@ -21,7 +21,7 @@
 ### GitHub Analytics
 <p align="center">
   <a href="https://github.com/Eks1azy">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eks1azy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eks1azy&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" alt="GitHub Stats"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eks1azy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </a>
 </p>
